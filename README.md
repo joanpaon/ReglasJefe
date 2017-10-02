@@ -8,6 +8,6 @@ Version .....:
 Author ......: José A. Pacheco Ondoño - joanpaon@gmail.com
 Platform ....: Java 8
 IDE .........: NetBeans 8.2
-Remote ......: https://github.com/joanpaon/HolaMundo.git
+Remote ......: https://github.com/joanpaon/ReglasJefe.git
 
 </pre>
